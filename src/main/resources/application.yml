@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://root:TigerTrigger@ridhz.rroqnlp.mongodb.net/?retryWrites=true&w=majority
+      database : Task
